@@ -1,0 +1,2 @@
+# smaish
+a test game 
